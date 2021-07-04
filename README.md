@@ -1,6 +1,7 @@
 # Buncho Chat
 Realtime chat room app using websockets written in Go and React.
 
+![](buncho_chat_screenshot.png)
 
 ## Installation
 
